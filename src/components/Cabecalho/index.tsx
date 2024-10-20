@@ -1,7 +1,7 @@
 import Header from './Cabecalho'
 const Cabecalho = () => (
   <Header>
-    <h1>EBAC Jobs</h1>
+    <h1>Benson Jobs</h1>
   </Header>
 )
 
